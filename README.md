@@ -33,11 +33,11 @@ The diagram showcases how the assistant determines the correct route based on us
    ```  
 3. Run the application:  
    ```bash
-   python app.py
+   streamlit run app.py
    ```  
 
 #### Usage  
-- Run the script and enter queries such as:  
+- Query Examples:  
   - "What is the weather in Lagos?"  
   - "Solve 5x + 3 = 18"  
   - "Latest news on AI"  
